@@ -1,7 +1,10 @@
 # SwingImages
 
-[Swing AI 프로젝트](https://github.com/coreswing/Swing_React)에 사용되는 2023시즌 KBO 선수 이미지를 모았습니다.
-이미지는 각 구단의 선수 소개 페이지를 참조하였습니다.
+[Swing AI 프로젝트](https://github.com/coreswing/Swing_React)에 사용되는 2023시즌 KBO 선수 이미지를 모았습니다.  
+이미지는 각 구단의 선수 소개 페이지를 참조하였습니다.  
+
+이미지 규격  
+PNG, 570x720  
 
 ## 이미지 출처
 ##### KIA 타이거즈
